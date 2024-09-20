@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(161, 236, 161);
+
+
+  }
+
+p {
+    font-family: "Times New Roman", Times, serif;   
+}
+h3{
+  text-decoration: none;
+  color: black;
+}
+.widnow{
+  display: flex;
+  justify-content: center;
+}
+.frame{
+  width: 35rem;
+  height:auto;
+  aspect-ratio: 1/1;
+}
+.box {
+  display: flex;
+  flex-direction: row-reverse;
+
+
+}
